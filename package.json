@@ -1,0 +1,49 @@
+{
+  "name": "react-native-actionsheet-custom",
+  "version": "1.0.0",
+  "description": "An cross platform ActionSheet component for react-native ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaaPill/react-native-actionsheet-custom.git"
+  },
+  "keywords": [
+    "react-native",
+    "actionsheet",
+    "action sheet",
+    "react-native-action-sheet",
+    "react-native-actionsheet",
+    "custom-action-sheet",
+    "action-sheet-custom"
+  ],
+  "author": "GaaPill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GaaPill/react-native-actionsheet-custom/issues"
+  },
+  "homepage": "https://github.com/GaaPill/react-native-actionsheet-custom#readme",
+  "peerDependencies": {
+    "react": ">=15.4.0",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.14",
+    "@types/react-native": "^0.57.0",
+    "@typescript-eslint/eslint-plugin": "^1.9.0",
+    "@typescript-eslint/parser": "^1.7.0",
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.2.3",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.11.0",
+    "prettier": "^1.15.3",
+    "typescript": "^3.3.0"
+  }
+}
